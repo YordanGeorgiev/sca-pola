@@ -17,24 +17,6 @@ cnf/sca-pola.dev.host-name.cnf
 cnf/sca-pola.host-name.cnf
 # ---
 src/scala/sca-pola/src
-src/scala/sca-pola/src/main
-src/scala/sca-pola/src/main/resources
-src/scala/sca-pola/src/main/scala
-src/scala/sca-pola/src/main/scala/com
-src/scala/sca-pola/src/main/scala/com/csitea
-src/scala/sca-pola/src/main/scala/com/csitea/app
-src/scala/sca-pola/src/main/scala/com/csitea/app/ctrl
-src/scala/sca-pola/src/main/scala/com/csitea/app/ctrl/CtrlConfig.scala
-src/scala/sca-pola/src/main/scala/com/csitea/app/ctrl/CtrlMain.scala
-src/scala/sca-pola/src/main/scala/com/csitea/app/io
-src/scala/sca-pola/src/main/scala/com/csitea/app/io/in
-src/scala/sca-pola/src/main/scala/com/csitea/app/io/in/RdrConfig.scala
-src/scala/sca-pola/src/main/scala/com/csitea/app/io/out
-src/scala/sca-pola/src/main/scala/com/csitea/app/io/out/WrtConfig.scala
-src/scala/sca-pola/src/main/scala/com/csitea/app/Main.scala
-src/scala/sca-pola/src/main/scala/com/csitea/app/utils
-src/scala/sca-pola/src/main/scala/com/csitea/app/utils/Initiator.scala
-src/scala/sca-pola/src/main/scala/com/csitea/app/utils/TypeConverter.scala
 src/scala/sca-pola/src/test
 src/scala/sca-pola/src/test/scala
 src/scala/sca-pola/src/test/scala/com
@@ -45,6 +27,23 @@ src/scala/sca-pola/src/test/scala/com/csitea/app/ctrl/TestCtrlMain.scala
 src/scala/sca-pola/src/test/scala/com/csitea/app/utils
 src/scala/sca-pola/src/test/scala/com/csitea/app/utils/TestInitiator.scala
 src/scala/sca-pola/src/test/scala/com/csitea/app/utils/TestLogging.scala
+src/scala/sca-pola/src/main
+src/scala/sca-pola/src/main/resources
+src/scala/sca-pola/src/main/scala
+src/scala/sca-pola/src/main/scala/com
+src/scala/sca-pola/src/main/scala/com/csitea
+src/scala/sca-pola/src/main/scala/com/csitea/app
+src/scala/sca-pola/src/main/scala/com/csitea/app/ctrl
+src/scala/sca-pola/src/main/scala/com/csitea/app/ctrl/CtrlMain.scala
+src/scala/sca-pola/src/main/scala/com/csitea/app/io
+src/scala/sca-pola/src/main/scala/com/csitea/app/io/out
+src/scala/sca-pola/src/main/scala/com/csitea/app/io/out/WrtConfig.scala
+src/scala/sca-pola/src/main/scala/com/csitea/app/io/in
+src/scala/sca-pola/src/main/scala/com/csitea/app/io/in/RdrConfig.scala
+src/scala/sca-pola/src/main/scala/com/csitea/app/utils
+src/scala/sca-pola/src/main/scala/com/csitea/app/utils/Initiator.scala
+src/scala/sca-pola/src/main/scala/com/csitea/app/utils/TypeConverter.scala
+src/scala/sca-pola/src/main/scala/com/csitea/app/Main.scala
 # --- 
 src/bash/lib/.bash_funcs.host-name
 # ---
