@@ -1,0 +1,35 @@
+# doc/txt/sca-pola/sbt-compile/sbt-compile.func.txt
+
+	doSbtCompile
+	
+	# Purpose:
+	# ------------------------------------------------------
+	to sbt compile the whole project
+
+	# Prequisites
+	# ------------------------------------------------------
+	JDK 1.8 , sbt
+
+	# Installation
+	# ------------------------------------------------------
+   nothing special ... 
+
+	# Interdependancies
+	# ------------------------------------------------------
+	JDK 1.8 , sbt
+
+	# Usage:
+	# ------------------------------------------------------
+   bash $0 -a sbt-compile
+
+	# Developent
+	# ------------------------------------------------------
+	-- more testing
+
+	# Caveats:
+	# ------------------------------------------------------
+	none known so far 
+
+
+
+# eof file: doc/txt/sca-pola/sbt-compile/sbt-compile.func.txt

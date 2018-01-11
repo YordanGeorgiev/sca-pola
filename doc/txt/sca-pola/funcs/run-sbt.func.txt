@@ -1,0 +1,27 @@
+# doc/txt/sca-pola/func/run-sbt.func.txt
+
+	doRunSbt
+	
+	# Purpose:
+	# ------------------------------------------------------
+	to run the entry point of the sca-pola scala tool via sbt
+
+	# Prequisites & Interdendencies
+	# ------------------------------------------------------
+	scala, sbt , jre
+
+	# Usage:
+	# ------------------------------------------------------
+   bash src/bash/sca-pola/sca-pola.sh -a run-sbt	
+
+	# Issues & Developent
+	# ------------------------------------------------------
+	-- ok - call works
+   -- todo: add better docs
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- none , known so far
+
+
+# eof file: doc/txt/sca-pola/func/run-sbt.func.txt

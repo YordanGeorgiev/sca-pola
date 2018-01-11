@@ -1,0 +1,6 @@
+# doc/txt/sca-pola/help/gmail-txt-issues.help.txt
+
+	doHelpGmailTxtIssues
+
+
+# eof file: doc/txt/sca-pola/help/gmail-txt-issues.help.txt

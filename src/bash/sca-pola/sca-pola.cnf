@@ -1,0 +1,13 @@
+#file: /opt/csitea/sca-pola/sca-pola.0.0.7.dev.ysg/src/bash/sca-pola/sca-pola.cnf 
+[MainSection]
+
+#use simple var_name=var_value syntax 
+
+#the name of this application 
+run_unit=sca-pola
+
+#the name of this application's db
+postgres_db_name=dev_sca-pola
+
+
+#eof file: /opt/csitea/sca-pola/sca-pola.0.0.7.dev.ysg/src/bash/sca-pola/sca-pola.cnf

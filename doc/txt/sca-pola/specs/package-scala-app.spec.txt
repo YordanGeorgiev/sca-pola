@@ -1,0 +1,36 @@
+# doc/txt/sca-pola/spec/package-scala-app.spec.txt
+
+	doSpecPackageScalaApp
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doSpecPackageScalaApp function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doSpecPackageScalaApp function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doSpecPackageScalaApp function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doSpecPackageScalaApp function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doSpecPackageScalaApp used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doSpecPackageScalaApp functions
+
+
+# eof file: doc/txt/sca-pola/spec/package-scala-app.spec.txt

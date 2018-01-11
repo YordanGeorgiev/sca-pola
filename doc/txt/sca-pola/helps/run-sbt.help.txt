@@ -1,0 +1,14 @@
+# doc/txt/sca-pola/help/run-sbt.help.txt
+
+	doHelpRunSbt
+	
+	# Purpose:
+	# ------------------------------------------------------
+	to present the help for the run-sbt func
+
+	# Usage:
+	# ------------------------------------------------------
+   bash src/bash/sca-pola/sca-pola.sh -a run-sbt	
+
+
+# eof file: doc/txt/sca-pola/help/run-sbt.help.txt

@@ -1,0 +1,28 @@
+# doc/txt/sca-pola/test/run-sbt.test.txt
+
+	doTestRunSbt
+	
+	# Purpose:
+	# ------------------------------------------------------
+	to test the running of the sca-pola scala tool via sbt run
+
+	# Prequisites & Interdependancies
+	# ------------------------------------------------------
+	sbt, scala , jvm
+
+	# Usage:
+	# ------------------------------------------------------
+	- add this line:
+run-sbt
+   in the 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doTestRunSbt functions
+
+
+# eof file: doc/txt/sca-pola/test/run-sbt.test.txt

@@ -1,0 +1,36 @@
+# doc/txt/sca-pola/test/package-scala-app.test.txt
+
+	doTestPackageScalaApp
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doTestPackageScalaApp function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doTestPackageScalaApp function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doTestPackageScalaApp function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doTestPackageScalaApp function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doTestPackageScalaApp used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doTestPackageScalaApp functions
+
+
+# eof file: doc/txt/sca-pola/test/package-scala-app.test.txt

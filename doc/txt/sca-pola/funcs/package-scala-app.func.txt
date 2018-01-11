@@ -1,0 +1,42 @@
+# doc/txt/sca-pola/func/package-scala-app.func.txt
+
+	doPackageScalaApp
+	
+	# Purpose:
+	# ------------------------------------------------------
+   - to clean compile
+	- to Generate API documentation"
+   - to Produce the main artifact, such as a binary jar"
+   - to Produce a main artifact, such as a binary jar"
+   - to Produce a documentation artifact, such as a jar containing API"
+   - to Produces a source artifact, such as a jar containing sources"
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doPackageScalaApp function
+
+	# Installation
+	# ------------------------------------------------------
+   install java 
+   install sbt 
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- java
+	-- sbt 
+   -- scala
+
+	# Usage:
+	# ------------------------------------------------------
+	bash $0 -a package-scala-app
+
+	# Developent
+	# ------------------------------------------------------
+	- find out whether all those in one are too heavy ?!
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- none known so far 
+
+
+# eof file: doc/txt/sca-pola/func/package-scala-app.func.txt

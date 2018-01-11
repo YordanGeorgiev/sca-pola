@@ -1,0 +1,37 @@
+# doc/txt/sca-pola/log-test-run-entry/log-test-run-entry.test.txt
+
+	doTestLogTestRunEntry
+	
+	# Purpose:
+	# ------------------------------------------------------
+   to test the doLogTestEntry function
+
+	# Prequisites
+	# ------------------------------------------------------
+   sca-pola core funcs , perl , bash
+
+	# Installation and configurtion
+	# ------------------------------------------------------
+   uncomment thhe log-test-run-entry action line from the 
+   src/bash/sca-pola/tests/run-sca-pola-tests.lst
+	
+   # Interdependancies
+	# ------------------------------------------------------
+
+	# Usage:
+	# ------------------------------------------------------
+   uncomment the log-test-run-entry line in the file:
+   src/bash/sca-pola/tests/run-sca-pola-tests.lst
+   src/bash/sca-pola/test-sca-pola.sh
+
+	# Developent
+	# ------------------------------------------------------
+   - todo   more failing tests ...    	
+
+	# Caveats:
+	# ------------------------------------------------------
+	none yet ...
+
+
+
+# eof file: doc/txt/sca-pola/log-test-run-entry/log-test-run-entry.test.txt

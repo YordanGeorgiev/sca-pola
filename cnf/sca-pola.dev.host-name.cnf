@@ -1,0 +1,13 @@
+# file: cnf/sca-pola.doc-pub-host.cnf
+[MainSection]
+
+# where to backup the zip packages
+network_backup_dir=/vagrant/var/csitea/sca-pola/dat/zip
+
+# a space separated list of e-mails 
+Emails=yordan.georgiev@gmail.com
+
+# in bash because of a bug this is ignored ...
+foo=bar
+
+# eof file: cnf/sca-pola.doc-pub-host.cnf

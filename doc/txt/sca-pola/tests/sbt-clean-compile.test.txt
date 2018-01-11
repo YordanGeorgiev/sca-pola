@@ -1,0 +1,12 @@
+# doc/txt/sca-pola/sbt-clean-compile/sbt-clean-compile.test.txt
+
+	doTestSbtCleanCompile
+	
+	# Purpose:
+	# ------------------------------------------------------
+	to test the sbt clean compile action
+
+
+
+
+# eof file: doc/txt/sca-pola/sbt-clean-compile/sbt-clean-compile.test.txt

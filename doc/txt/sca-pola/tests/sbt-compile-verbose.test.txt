@@ -1,0 +1,11 @@
+# doc/txt/sca-pola/sbt-compile-verbose/sbt-compile-verbose.test.txt
+
+	doTestSbtCompileVerbose
+	
+	# Purpose:
+	# ------------------------------------------------------
+	to  test the sbt-compile verbose action func
+
+
+
+# eof file: doc/txt/sca-pola/sbt-compile-verbose/sbt-compile-verbose.test.txt

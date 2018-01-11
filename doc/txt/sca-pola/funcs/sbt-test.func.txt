@@ -1,0 +1,36 @@
+# doc/txt/sca-pola/func/sbt-test.func.txt
+
+	doSbtTest
+	
+	# Purpose:
+	# ------------------------------------------------------
+	-- todo: what is the purpose of the doSbtTest function
+
+	# Prequisites
+	# ------------------------------------------------------
+	-- todo: what are the prerequisites of the doSbtTest function
+
+	# Installation
+	# ------------------------------------------------------
+	-- todo: what are the required installations for the  
+		doSbtTest function to execute without errors
+
+	# Interdependancies
+	# ------------------------------------------------------
+	-- todo: what are the interdependancies for the  
+		doSbtTest function to execute without errors
+
+	# Usage:
+	# ------------------------------------------------------
+	-- todo: how can be the doSbtTest used 
+
+	# Developent
+	# ------------------------------------------------------
+	-- todo: what issues, todos could be pointed for development
+
+	# Caveats:
+	# ------------------------------------------------------
+	-- todo: what are the known caveats of the doSbtTest functions
+
+
+# eof file: doc/txt/sca-pola/func/sbt-test.func.txt

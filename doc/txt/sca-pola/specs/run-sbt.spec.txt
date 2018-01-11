@@ -1,0 +1,11 @@
+# doc/txt/sca-pola/spec/run-sbt.spec.txt
+
+	doSpecRunSbt
+	
+	# Purpose:
+	# ------------------------------------------------------
+	to display the specs of the func
+
+   
+
+# eof file: doc/txt/sca-pola/spec/run-sbt.spec.txt
